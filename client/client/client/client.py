@@ -7,7 +7,7 @@ def send_file(path: str):
      a size of 1024 bytes.
 
     Args:
-        path: path/file.extension.
+        path (str) : Path/file.extension.
 
     Return:
         None.
